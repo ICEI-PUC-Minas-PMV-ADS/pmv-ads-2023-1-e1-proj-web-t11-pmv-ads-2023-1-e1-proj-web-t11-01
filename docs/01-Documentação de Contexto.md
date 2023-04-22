@@ -1,13 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o público cada vez mais sedento em consumir mídias, a indústria audiovisual tem se tornado uma máquina de produzir conteúdo. A cada ano que passa o número de filmes estreando nos cinemas só aumenta, e há vários canais de streamings trabalhando a todo vapor para suprir essa carência, lançando constantemente material para todos, desde filmes e séries a documentários e animações infantis.  
+
+Tendo em vista o tamanho desse público e seu nível de engajamento, torna-se muito oportuna a criação de um espaço onde possam se encontrar e formar comunidades entre si.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Atualmente não há uma ferramenta popular onde as pessoas possam expor e classificar suas opiniões sobre filmes e séries, e cujo objetivo seja aproximar e relacionar as pessoas baseada em suas preferências audiovisuais.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,26 +14,35 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo dessa ferramenta é proporcionar as pessoas um espaço onde possam debater uns com os outros e se expressar sobre suas mídias favoritas e também as que menos gostaram. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+ Como objetivos específicos, podemos ressaltar: 
+
+Disponibilizar ao usuário um espaço onde pode publicar e classificar todas as mídias que já consumiu e escrever uma pequena resenha relacionada a ela.  
+
+Permitir adicionar amigos para assim interagirem nas publicações uns dos outros.    
+
+Permitir ao usuário criar uma lista onde marca futuras mídias que tem vontade de consumir. 
+
+Permitir ao usuário buscar pelas resenhas de outros usuários para decidir se deve ou não consumir aquela mídia.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O site Sprout Social publicou em 2021 um estudo que mostra a média da idade dos usuários das redes sociais como um todo, e considerando as redes sociais mais famosas podemos filtrar a média da idade dos usuários, que vai de 13 a 64 anos.
+  
+Já em relação ao mídias audiovisuais podemos considerar as informações compartilhadas no site Editora Cientifica, este publicou um estudo feito com um total de 105 pessoas participantes e mostra que o público consumidor do cinema é formado em 50,48% masculino contra 49,52% feminino, todos com idade entre 19 e 24 anos. E a matéria publicada pelo site Rock Content, em 2019 mostra que a Netflix divulgou que em sua base de usuários pelo mundo a grande maioria do público é formada por pessoas entre 18 e 49 anos.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+ Com base nessas informações chegamos à conclusão de que há um grande público para uma rede social com a interação baseada em filmes e séries.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Com base nesses dados e considerando também as exceções, podemos filtrar o público-alvo dessa ferramenta, homes e mulheres entre 15 a 55 anos de idade que queiram interagir com outros grupos baseados em seus consumos das mídias.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
