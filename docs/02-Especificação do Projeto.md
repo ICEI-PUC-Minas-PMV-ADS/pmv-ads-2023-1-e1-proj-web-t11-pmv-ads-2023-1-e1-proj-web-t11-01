@@ -2,9 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Esse projeto foi construído por uma equipe que através de nosso idealizador principal, notou que há muitas pessoas que precisam de apenas um lugar em específico para conseguir assistir e deixar a sua opinião sobre o mesmo, e também entenderem mais sobre o que as outras pessoas acharam sobre o que foi assistido. Vale lembrar que essa necessidade foi apontada através de percepções em vários streamings que não possuem esse diferencial.
 
 ## Personas
 
@@ -42,22 +40,33 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos do projeto abordam algumas das funcionalidades essenciais do site para uma projeção adequada de boa acessibilidade, estruturação harmoniosa e a boa usabilidade do site para o público-alvo. Entre estes requisitos, alguns são classificados como requisitos funcionais que descrevem as aplicações de interação com o usuário, já os requisitos não funcionais são aqueles que o sistema do site deverá apresentar para atender as demandas dos usuários. 
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve apresentar uma seção de cadastro/login  | ALTA | 
+|RF-002| O site deve ter uma página principal onde deve apresentar as principais mídias do momento.    | ALTA |
+|RF-003| O site deve apresentar, para cada mídia, uma imagem correspondente ao assunto apresentado (thumbnail)  | MÉDIA | 
+|RF-004| O site deve permitir ao usuário visualizar o texto completo da sinopse da mídia com todos os detalhes da publicação    | MÉDIA |
+|RF-005| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar as mídias de sua preferência. | ALTA | 
+|RF-006| O site deve permitir visualizar as informações de contatos dos responsáveis pelo site    | BAIXA |
+|RF-007| O site deve permitir o compartilhamento de avaliações das mídias assistidas em seu feed. | BAIXA | 
+|RF-008| O site deve permitir salvar mídias preferidas    | BAIXA |
+|RF-009| O site deve permitir verificar as mídias salvas como preferidas no perfil do usuário  | BAIXA | 
+|RF-0010| O site deve permitir que usuários possam comentar mídias    | ALTA |
+|RF-0011| O site deve exibir os comentários registrados juntamente com a mídia exibida  | ALTA | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em diversos dispositivos de forma adequada  |  ALTA | 
+|RNF-003| O site deve ser intuitivo e ter um designe agradável.  |  ALTA | 
+|RNF-004|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Opera)  |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -80,9 +89,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 25/06/2023.|
+|02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
+|04| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
+|05| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
