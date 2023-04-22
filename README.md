@@ -6,7 +6,6 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 Esta sendo desenvolvido um projeto para que as pessoas consigam publicar, classificar e debater com os outros usuários sobre filmes.
 
 ## Integrantes
