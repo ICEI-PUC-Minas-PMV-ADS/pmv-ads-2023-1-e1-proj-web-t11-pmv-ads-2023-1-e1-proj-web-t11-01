@@ -20,8 +20,11 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 
 1 - Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+
 ●	Barra lateral esquerda- Barra onde ficarão dispostos os atalhos de navegação.
+
 ●	Conteúdo - Apresenta o conteúdo da tela em questão.
+
 ●	Barra lateral - apresenta os elementos de interesse do usuário, geralmente associados aos elementos do bloco de conteúdo.
 
 ![1](https://user-images.githubusercontent.com/126619667/233822167-d22065f5-f9af-4546-9800-c5afaf7fe66c.png)
@@ -38,14 +41,20 @@ A tela a seguir disponibiliza aos usuários a opção de se logar no site, bem c
 
 3 - Tela - Feed
 O Feed apresenta ao usuário as novidades baseadas em seus interesses e as interações dos perfis que segue. 
+
 •	Barra lateral esquerda:
+
 Botão Home: Leva o usuário a página inicial (Feed). 
 Botão Perfil: Leva o usuário a página do perfil.
 Botão Pesquisar/Explorar: Leva o usuário a página de pesquisa e apresenta a ele os assuntos mais comentados do momento.
 Botão Criar: Leva o usuário a página de criação de post. 
+
 •	Conteúdo:
+
 Apresenta ao usuário posts dos perfis que ele segue e a novidades baseadas em seu gosto.
+
 •	Barra lateral direita:
+
 Apresenta ao usuário os conteúdos mais comentados e novidades.
 
 ![3](https://user-images.githubusercontent.com/126619667/233822188-6da45a1f-baee-4974-a092-e6240db6fbd2.png)
@@ -65,6 +74,7 @@ Após achar a mídia e clicar na mesma, o usuário será direcionado as suas inf
 
 6 - Tela – Perfil do Usuário
 A tela de perfil possibilita ao usuário ver suas postagens, amigos, e escrever uma breve biografia sobre sim. 
+
 •	Barra lateral esquerda: 
 Botão favoritos: Leva o usuário a sua lista de favoritos/Interesse.
 Botão Sair: Faz o logoff do site.
