@@ -31,7 +31,7 @@ Scrum Master: Israel Moreira
 
 Product Owner: Israel Moreira 
 
-Equipe de Desenvolvimento: Gabriel Oliveira, Guilherme Martins Cesar Augusto, e Israel Moreira 
+Equipe de Desenvolvimento: Gabriel Oliveira, Guilherme Martins, Cesar Augusto e Israel Moreira 
 
 Equipe de Design: Guilherme Martins, Gabriel Oliveira, Israel Moreira e Cesar Augusto 
 
