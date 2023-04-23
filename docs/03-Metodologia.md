@@ -1,9 +1,8 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A metodologia contempla as definições de ferramentas utilizadas pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
+A metodologia utilizada em um projeto de desenvolvimento de software abrange varios processos ao decorrer do desenvolvimento,desde a ideia inicial até finalização do projeto.Junto a definição de técnicas e ferramentas a serem utilizadas pelo grupo para a elaboração do código assim como a distribuição de tarefas entre a equipe. 
 
 # Relação de Ambientes de Trabalho
 
@@ -16,38 +15,14 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Gerenciamento de Projetos | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424 |
 | Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/zgWEGJKQjp8H7FfcoQy584/Wireframes?t=TqKAVlCT2X74hj7g-0 |
 
-## Controle de Versão
-
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
-
-O projeto segue a seguinte convenção para o nome de branches:
-
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
+O gerenciamento de projetos utilizando a metodologia Scrum é uma abordagem ágil para desenvolvimento de projetos, que se concentra em entregas incrementais de valor ao longo do tempo. O Scrum é baseado em ciclos de trabalho chamados de sprints, que são períodos de tempo definidos previamente (geralmente entre 2 e 4 semanas), durante os quais uma equipe trabalha para entregar uma série de funcionalidades do produto.
 
+O Scrum é centrado na equipe, que é auto-organizada e multifuncional, e trabalha em colaboração para atingir os objetivos do projeto. O papel do Scrum Master é garantir que a equipe esteja alinhada com as práticas e valores do Scrum, enquanto o Product Owner é responsável por definir e priorizar as funcionalidades do produto.
+
+Durante cada sprint, a equipe define as tarefas necessárias para entregar as funcionalidades selecionadas, em seguida trabalha nesses itens de forma colaborativa, com reuniões diárias de acompanhamento do progresso. Ao final do sprint, a equipe apresenta as funcionalidades entregues em uma revisão com os stakeholders, e então realiza uma retrospectiva para analisar o desempenho da equipe e definir melhorias para o próximo sprint.
+
+O objetivo final do Scrum é entregar um produto de alta qualidade que atenda às necessidades do cliente, utilizando uma abordagem iterativa e incremental, que permite adaptar o produto de acordo com o feedback dos usuários e do mercado.
 ### Divisão de Papéis
 
 A equipe está organizada da seguinte maneira: 
@@ -60,20 +35,20 @@ Equipe de Desenvolvimento: Gabriel Oliveira, Guilherme Martins Cesar Augusto, e 
 
 Equipe de Design: Guilherme Martins, Gabriel Oliveira, Israel Moreira e Cesar Augusto 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
+O gerenciamento de projetos utilizado pelo Kanban é uma abordagem ágil que se concentra na visualização do trabalho em andamento, no fluxo de trabalho e na entrega constante de valor. O Kanban é baseado em um sistema visual de cartões ou post-its, que representam as tarefas e atividades do projeto, e que são organizados em um quadro Kanban com colunas que representam o estado atual do trabalho.
+<br>
+*Product Backlog:Product Backlog é responsável por listar todas as pendências do produto de forma geral.<br>
+*to do:Sinaliza todas as pendência urgentens.<br>
+*In progress:Sinaliza todas as tarefas que estão em andamento.<br>
+*Done:Sinaliza todas as tarefas que foram finalizadas.<br>
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-
-Reunião de Sprint 2 vezes na semana e utilizamos 2 ferramentas para o andamento do projeto.
+A equipe é responsável por gerenciar o quadro Kanban, movendo as tarefas entre as colunas à medida que progridem, e priorizando o trabalho de acordo com as necessidades do projeto. O processo de gerenciamento é colaborativo, com a equipe trabalhando em conjunto para identificar oportunidades de melhoria e ajustar o processo para maximizar o valor entregue.
+![6d3cf199-6479-46c1-85e5-9b6f61da11e0](https://user-images.githubusercontent.com/111918966/233823021-db14172d-8bf7-46b1-b361-35596f014a4a.jpg)
  
 > **Links Úteis**:
 > - GitHub: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424
->  - Trello: https://trello.com/b/fQN9PEJ4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end
+> - Trello: https://trello.com/b/fQN9PEJ4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end
 
 ### Ferramentas
 
