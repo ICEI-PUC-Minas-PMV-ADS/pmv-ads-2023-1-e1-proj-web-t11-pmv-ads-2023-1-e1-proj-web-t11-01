@@ -12,7 +12,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Ambiente  | Plataforma | Link de Acesso |
 |--- |--- |--- |
 |Repositório de código fonte| Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01 |
-|Documentos do Projeto | Microsoft Teams |https://teams.microsoft.com/_#/apps/d7958adf-f419-46fa-941b-1b946497ef84/sections/MyNotebook |
+|Documentos do Projeto | Microsoft Teams |https://sgapucminasbr.sharepoint.com/:w:/s/team_sga_2418_2023_1_4577111-Grupo1/EaGRs-ZBvntJtbRgTuYjh7AB07tClSKAIynkD_-kVU_pIw?e=t9MJZk |
 |Gerenciamento de Projetos | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424 |
 | Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/zgWEGJKQjp8H7FfcoQy584/Wireframes?t=TqKAVlCT2X74hj7g-0 |
 
