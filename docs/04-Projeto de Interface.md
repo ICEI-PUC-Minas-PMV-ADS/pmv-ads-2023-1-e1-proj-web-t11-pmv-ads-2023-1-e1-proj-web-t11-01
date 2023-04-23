@@ -9,6 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 ![fo](https://user-images.githubusercontent.com/111918966/233820978-69cd514a-b16b-4fe6-a939-5a59f2250a79.PNG)
+![fo](https://user-images.githubusercontent.com/111918966/233821630-27c281ed-5f8d-4c96-9d70-f1a518c9db0e.PNG)
 
 
 
