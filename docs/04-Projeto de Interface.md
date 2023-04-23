@@ -40,6 +40,7 @@ A tela a seguir disponibiliza aos usuários a opção de se logar no site, bem c
 
 
 3 - Tela - Feed
+
 O Feed apresenta ao usuário as novidades baseadas em seus interesses e as interações dos perfis que segue. 
 
 •	Barra lateral esquerda:
@@ -61,18 +62,21 @@ Apresenta ao usuário os conteúdos mais comentados e novidades.
 
 
 4 - Tela - Explorar e pesquisar
+
 Nesta tela o usuário poderá explorar os conteúdos através de diversos filtros como o gênero da mídia por exemplo (ação, comédia), e fazer pesquisas.
 
 ![4](https://user-images.githubusercontent.com/126619667/233822206-4b4c4a8c-7539-4a3f-a15f-bcf9bbd6165e.png)
 
 
 5 - Tela - Informações da Mídia
+
 Após achar a mídia e clicar na mesma, o usuário será direcionado as suas informações, como por exemplo a classificação dos usuários do site, duração, onde assistir e sinopse do filme.
 
 ![5](https://user-images.githubusercontent.com/126619667/233822358-e7fd5d0d-181e-4857-a6cb-f6416e6de789.png)
 
 
 6 - Tela – Perfil do Usuário
+
 A tela de perfil possibilita ao usuário ver suas postagens, amigos, e escrever uma breve biografia sobre sim. 
 
 •	Barra lateral esquerda: 
@@ -83,12 +87,14 @@ Botão Sair: Faz o logoff do site.
 
 
 7 - Tela - Favoritos
+
 A tela apresenta ao usuário todas as mídias que ele já classificou e na Barra lateral esquerda mostra todas as que ele marcou em sua lista de interesse.
 
 ![7](https://user-images.githubusercontent.com/126619667/233822404-de9cf135-adac-4b88-8806-44921ffba52b.png)
 
 
 8 - Tela - Postagem
+
 Na tela de postagem o usuário poderá criar seu post com uma imagem e texto e classificar o conteúdo de 1 até 5 estrelas.
 
 ![9](https://user-images.githubusercontent.com/126619667/233822423-fcaef6af-a5cb-4554-b31c-407985af7eb6.png)
