@@ -2,7 +2,7 @@
 # Metodologia
 
 
-A metodologia utilizada em um projeto de desenvolvimento de software abrange varios processos ao decorrer do desenvolvimento,desde a ideia inicial até finalização do projeto.Junto a definição de técnicas e ferramentas a serem utilizadas pelo grupo para a elaboração do código assim como a distribuição de tarefas entre a equipe. 
+A metodologia utilizada em um projeto de desenvolvimento de software abrange varios processos ao decorrer do desenvolvimento, desde a ideia inicial até finalização do projeto. Junto a definição de técnicas e ferramentas a serem utilizadas pelo grupo para a elaboração do código assim como a distribuição de tarefas entre a equipe. 
 
 # Relação de Ambientes de Trabalho
 
