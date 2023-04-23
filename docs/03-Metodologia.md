@@ -75,7 +75,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código: Vscode e Replit
 - Ferramentas de comunicação: Discord, Microsoft Teams e WhatsApp
-- Ferramentas de desenho de tela: Figma
+- Ferramentas de desenho de tela: Figma e Bizagi Modeler
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
