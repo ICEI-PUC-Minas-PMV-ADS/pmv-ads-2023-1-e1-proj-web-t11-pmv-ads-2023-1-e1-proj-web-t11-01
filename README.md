@@ -5,7 +5,7 @@
 
 `Eixo 1 - Projeto:Desenvolvimento de Aplicação Web Front-End - Turma 11 - 2023/1`
 
-`01/2023`
+`1° semestre`
 
 Esta sendo desenvolvido um projeto para que as pessoas consigam publicar, classificar e debater com os outros usuários sobre filmes.
 
