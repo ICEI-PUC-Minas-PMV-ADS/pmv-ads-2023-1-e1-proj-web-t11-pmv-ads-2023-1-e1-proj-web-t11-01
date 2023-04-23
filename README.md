@@ -1,7 +1,7 @@
 # MovieBox
 ![mb2](https://user-images.githubusercontent.com/111918966/233815524-7a69024b-9ece-45d2-88ef-b4fe74f6a00e.png)
 
-`Análise e desenvolvimento de sistemas`
+`Análise e Desenvolvimento de Sistemas`
 
 `Eixo 1 - Projeto:Desenvolvimento de Aplicação Web Front-End - Turma 11 - 2023/1`
 
