@@ -1,10 +1,11 @@
 # MovieBox
+![1](https://user-images.githubusercontent.com/111918966/233815177-e6692d65-fb37-4110-9ac6-7a32d28e5c94.png)
 
-`CURSO`
+`Análise e desenvolvimentos de sistemas`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto:Desenvolvimento de Aplicação Web Front-End - Turma 11 - 2023/1`
 
-`SEMESTRE`
+`01/2023`
 
 Esta sendo desenvolvido um projeto para que as pessoas consigam publicar, classificar e debater com os outros usuários sobre filmes.
 
