@@ -6,19 +6,13 @@ Esse projeto foi construído por uma equipe que através de nosso idealizador pr
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Luisa Almeida tem 17 anos, e é uma estudante que está terminando o último ano da escola. Ela é apaixonada por fotografia, música indie e escrever sobre questões sociais. Ela adora sair com seus amigos e experimentar novos cafés e bares na cidade. Costuma usar os aplicativos Instagram, Twitter, Linkedin, TikTok, Kindle e Netflix. Busca falar sobre os filmes que gosta com os amigos e deseja deixar sua opinião para os seus amigos sobre as suas séries favoritas. E tem dificuldade em encontrar um site onde pode deixar sua opinião sobre suas mídias favoritas.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Marcos Oliveira tem 35 anos,ele é um executivo de uma empresa de tecnologia. É casado e tem um filho de 6 anos. Ele é muito ocupado com o trabalho, mas tenta equilibrar sua vida pessoal e profissional. Gosta de fazer exercícios, ler livros de negócios e viajar com sua família. Costuma usar os aplicativos Facebook, Linkedin, Instagram, Kindle e Amazon Prime. Pretende passar mais tempo com o seu filho assistindo desenhos de super heróis, além de buscar assistir filmes românticos com sua esposa durante a noite. Infelizmente perde muito tempo procurando em sites vários o que assistir com o seu filho.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Rafaela Dias tem 45 anos, é uma advogada que trabalha em uma empresa de grande porte. É solteira e não tem filhos, mas adora seus sobrinhos. Gosta de fazer trilhas, nadar e ir a concertos de música clássica. Ela também gosta de cozinhar e experimentar novas receitas. Utiliza os aplicativos Linkedin, Instagram e HBO Max. Gostaria de assistir séries sobre histórias com seus sobrinhos e busca também está por dentro do que há de novo no mundo dos filmes e séries. Encontra dificuldade de saber qual filme assistir quando não encontra muitas avaliações em sua categoria favorita.
+
+Rodrigo Marques tem 55 anos, é um empresário que possui sua própria empresa de construção. É casado e tem dois filhos adultos. Gosta de jogar golfe, fazer viagens de moto e ler livros sobre história e política. Também é um amante da gastronomia e gosta de cozinhar para sua família e amigos. Utliza os aplicativos Linkedin, Instagram e Apple Tv. Quer assistir mais documentários sobre assuntos intrigantes e busca analisar as opiniões de seus amigos e debater sobre tal mídia assistida. Não consegue deixar sua opinião sobre suas mídias assistidas, para gerar debates bem construtivos.
 
 ## Histórias de Usuários
 
