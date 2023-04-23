@@ -1,7 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Esse projeto foi construído por uma equipe que através de nosso idealizador principal, notou que há muitas pessoas que precisam de apenas um lugar em específico para conseguir assistir e deixar a sua opinião sobre o mesmo, e também entenderem mais sobre o que as outras pessoas acharam sobre o que foi assistido. Vale lembrar que essa necessidade foi apontada através de percepções em vários streamings que não possuem esse diferencial.
 
 ## Personas
@@ -25,12 +23,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Rafaela Dias       | Compartilhar com meus amigos os filmes que estou vendo ultimamente.                 | Para que tenhamos mais assuntos envolvendo filmes, series. |
 |Rodrigo Marques       | Fazer comentários em filmes que as pessoas estão vendo.                 | Ajudar pessoas com comentários e avaliações se o filme vale a pena ou não. |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -62,20 +54,7 @@ Os requisitos do projeto abordam algumas das funcionalidades essenciais do site 
 |RNF-003| O site deve ser intuitivo e ter um designe agradável.  |  ALTA | 
 |RNF-004|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Opera)  |  ALTA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -89,8 +68,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
 |05| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
