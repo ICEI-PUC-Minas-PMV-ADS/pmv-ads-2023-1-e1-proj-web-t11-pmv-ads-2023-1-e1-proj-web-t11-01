@@ -38,10 +38,10 @@ Equipe de Design: Guilherme Martins, Gabriel Oliveira, Israel Moreira e Cesar Au
 ### Processo
 O gerenciamento de projetos utilizado pelo Kanban é uma abordagem ágil que se concentra na visualização do trabalho em andamento, no fluxo de trabalho e na entrega constante de valor. O Kanban é baseado em um sistema visual de cartões ou post-its, que representam as tarefas e atividades do projeto, e que são organizados em um quadro Kanban com colunas que representam o estado atual do trabalho.<br>
 <br>
-Product Backlog: Product Backlog é responsável por listar todas as pendências do produto de forma geral.<br>
-to do: Sinaliza todas as pendência urgentens.<br>
-In progress: Sinaliza todas as tarefas que estão em andamento.<br>
-Done: Sinaliza todas as tarefas que foram finalizadas.<br>
+<strong>Product Backlog</strong>: Product Backlog é responsável por listar todas as pendências do produto de forma geral.<br>
+<strong>to do</strong>: Sinaliza todas as pendência urgentes.<br>
+<strong>In progress</strong>: Sinaliza todas as tarefas que estão em andamento.<br>
+<strong>Done</strong>: Sinaliza todas as tarefas que foram finalizadas.<br>
 
 A equipe é responsável por gerenciar o quadro Kanban, movendo as tarefas entre as colunas à medida que progridem, e priorizando o trabalho de acordo com as necessidades do projeto. O processo de gerenciamento é colaborativo, com a equipe trabalhando em conjunto para identificar oportunidades de melhoria e ajustar o processo para maximizar o valor entregue.
 ![6d3cf199-6479-46c1-85e5-9b6f61da11e0](https://user-images.githubusercontent.com/111918966/233823021-db14172d-8bf7-46b1-b361-35596f014a4a.jpg)
