@@ -69,7 +69,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 As ferramentas empregadas no projeto são:
 
 - Editor de código: Vscode e Replit
-- Ferramentas de comunicação: Discord e Microsoft Teams
+- Ferramentas de comunicação: Discord, Microsoft Teams e WhatsApp
 - Ferramentas de desenho de tela: Figma
 
 O editor de código foi escolhido porque ele possui uma integração com o
