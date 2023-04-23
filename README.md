@@ -1,7 +1,5 @@
 # MovieBox
-<section style="text-align:center">
-  ![1](https://user-images.githubusercontent.com/111918966/233815267-67fc575f-2f47-4abc-a708-0e7c37118173.png)
-</section>
+![1](https://user-images.githubusercontent.com/111918966/233815267-67fc575f-2f47-4abc-a708-0e7c37118173.png)
 
 `Análise e desenvolvimentos de sistemas`
 
