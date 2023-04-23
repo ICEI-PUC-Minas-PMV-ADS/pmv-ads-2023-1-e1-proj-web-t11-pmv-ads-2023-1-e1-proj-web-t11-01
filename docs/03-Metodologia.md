@@ -68,12 +68,12 @@ Equipe de Design: Guilherme Martins, Gabriel Oliveira, Israel Moreira e Cesar Au
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+
+Reunião de Sprint 2 vezes na semana e utilizamos 2 ferramentas para o andamento do projeto.
  
 > **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+> - GitHub: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424
+>  - Trello: https://trello.com/b/fQN9PEJ4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end
 
 ### Ferramentas
 
