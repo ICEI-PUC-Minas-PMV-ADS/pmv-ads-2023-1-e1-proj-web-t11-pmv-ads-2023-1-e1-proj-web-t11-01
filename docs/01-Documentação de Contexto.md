@@ -5,7 +5,7 @@ Com o público cada vez mais sedento em consumir mídias, a indústria audiovisu
 Tendo em vista o tamanho desse público e seu nível de engajamento, torna-se muito oportuna a criação de um espaço onde possam se encontrar e formar comunidades entre si.
 
 ## Problema
-Atualmente não há uma ferramenta popular onde as pessoas possam expor e classificar suas opiniões sobre filmes e séries, e cujo objetivo seja aproximar e relacionar as pessoas baseada em suas preferências audiovisuais.
+Atualmente não há uma ferramenta popular onde as pessoas possam expor e classificar suas opiniões sobre filmes e séries, e cujo objetivo seja aproximar e relacionar as pessoas baseada em suas preferências audiovisuais.Uma ferramenta capaz de unir pessoas que possuem interesses em comum baseando-se em suas opiniôes e gostos ao avaliar/resenhar sobre quaisquer que sejam os produtos audiovisuais.
 
 ## Objetivos
 
