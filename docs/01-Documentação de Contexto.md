@@ -9,9 +9,9 @@ Atualmente não há uma ferramenta popular onde as pessoas possam expor e classi
 
 ## Objetivos
 
-O objetivo dessa ferramenta é proporcionar as pessoas um espaço onde possam debater uns com os outros e se expressar sobre suas mídias favoritas e também as que menos gostaram. 
+O objetivo dessa ferramenta é proporcionar as pessoas um espaço onde possam debater uns com os outros e se expressarem sobre suas mídias favoritas e também as que menos gostaram. 
 
- Como objetivos específicos, podemos ressaltar: 
+Como objetivos específicos, podemos ressaltar: 
 
 Disponibilizar ao usuário um espaço onde pode publicar e classificar todas as mídias que já consumiu e escrever uma pequena resenha relacionada a ela.  
 
