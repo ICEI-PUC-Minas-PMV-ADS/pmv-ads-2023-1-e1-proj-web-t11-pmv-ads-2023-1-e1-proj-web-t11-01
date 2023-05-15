@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/*Fontes utilizadas* font-family: 'Roboto', sans-serif;*/
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}  
+
+/**/
+
+
+body {
+	background: linear-gradient(-45deg, #00106b, #1518e0, #08118a, #0c7eca);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+/*Cor de fundo utilizada no site*/
+
+
+.containerfeed {
+    display: flex; /* define o container como um flex container */
+    justify-content: space-between; /* alinha os elementos com espaçamento entre eles */
+    width: 100%; /* define a largura do container */
+  }
+/*Estilização do containerfeed termina aqui*/
+
+
+.navbar {
+    width: 15%; /* define a largura de cada elemento */
+    height: 100vh; /* define a altura do tamanho da tela */
+    background-color: rgba(255, 255, 255, 0.2); /* define a cor de fundo do elemento */
+    border: 1px solid black; /* define uma borda para cada elemento */
+    padding-left: 03%; /* Define a margem a esquerda*/
+    border-radius: 0.5em; /*Arredonda as bordas*/
+
+}
+
+.navlink {
+    font-family: 'roboto', sans-serif;
+    color: aliceblue;
+    font-size: 1.5em; 
+}
+
+
+/*Estilização da barra de navegação termina aqui*/
+
+
+.feed {
+    width: 60%; /* define a largura de cada elemento */
+    height: 100vh; /* define a altura de cada elemento */
+    background-color: rgba(255, 255, 255, 0.2); /* define a cor de fundo do elemento */
+    border: 1px solid black; /* define uma borda para cada elemento */
+    font-family: 'Roboto', sans-serif; /* Define a fonte */
+    padding-left: 03%; /* Define a margem a esquerda*/
+    border-radius: 0.5em; /*Arredonda as bordas*/
+    color: aliceblue;
+    font-size: 0.9em;
+}
+/*Estilização do feed/Pagina Inicial termina aqui*/
+
+
+.emalta {
+    width: 25%; /* define a largura de cada elemento */
+    height: 100vh; /* define a altura de cada elemento */
+    background-color: rgba(255, 255, 255, 0.2); /* define a cor de fundo do elemento */
+    border: 1px solid black; /* define uma borda para cada elemento */
+    font-family: 'Roboto', sans-serif; /* Define a fonte */
+    padding-left: 03%; /* Define a margem a esquerda*/
+    border-radius: 0.5em; /*Arredonda as bordas*/
+    color: aliceblue;
+    font-size: 0.8em;
+}
+/*Estilização do Em Alta termina aqui*/
