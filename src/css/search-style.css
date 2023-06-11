@@ -15,6 +15,7 @@
 
 .left-area {
     width: 20%;
+    height: 100vh;
     background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
 }
 
@@ -45,10 +46,61 @@
     flex-direction: column;
     justify-content: space-evenly;
     width: 20%;
+    height: 100vh;
     background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
 }
 
 .right-area img {
     width: 75%;
     height: 47%
+}
+
+.mid-content {
+    height: 90vh;
+    display: flex;
+    overflow-y: scroll;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.infos-box {
+    background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
+    width: 100%; 
+    height: 100%;
+}
+
+.infos-box div {
+    display: flex;
+    height: 250px; 
+    width: 100%;
+}
+
+.infos-box-user {
+    display: flex; 
+    flex-direction: column; 
+}
+
+.search-area {
+    height: 10vh;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    border-bottom-width: 1px;
+    border-bottom-color: #A9A9A9;
+    border-bottom-style: solid;
+}
+
+#search-input {
+    width: 60%;
+    height: 30px;
+    border-radius: 6px;
+    margin-right: 5px;
+}
+
+#search-button {
+    height: 30px;
+    width: 50px;
+    background-color: #FFFFFF;
+    border-radius: 6px;
 }

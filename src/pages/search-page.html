@@ -1,74 +1,106 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+    <!DOCTYPE html>
+    <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MOVIEBOX - SEARCH</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MOVIEBOX - HOME</title>
+        <link rel="stylesheet" href="../css/search-style.css">
+        <script src="../js/search.js"></script>
+    </head>
 
-<body>
+    <body>
+        <div class="home-container">
 
+            <!-- INÍCIO BARRA DA ESQUERDA -->
+            <div class="left-area">
 
-</body>
+                <!-- INÍCIO ÁREA DE OPIÇÕES -->
+                <div style="height: 70%; padding: 10%;">
+                    <div class="nav-item">
+                        <img src="../assets/icons/icon_home.png" alt="icon_home">
+                        <p>Página Inicial</p>
+                    </div>
 
-</html><!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MOVIEBOX - HOME</title>
-    <link rel="stylesheet" href="../css/home-style.css">
-</head>
-<body>
-    <div class="home-container">
-        <!-- INÍCIO BARRA DA ESQUERDA -->
-        <div class="left-area">
-             <!-- INÍCIO ÁREA DE OPIÇÕES -->
-            <div style="height: 70%; padding: 10%;">
-                <div class="nav-item">
-                    <img src="../assets/icons/icon_home.png" alt="icon_home">
-                    <p>Página Inicial</p>
+                    <div class="nav-item">
+                        <img src="../assets/icons/icon_group.png" alt="icon_group">
+                        <p>Amigos</p>
+                    </div>
+
+                    <div class="nav-item">
+                        <img src="../assets/icons/icon_user.png" alt="icon_user">
+                        <p>Perfil</p>
+                    </div>
+
+                    <div class="nav-item">
+                        <img src="../assets/icons/icon_search.png" alt="icon_search">
+                        <p>Pesquisar</p>
+                    </div>
+
+                    <div class="nav-item">
+                        <img src="../assets/icons/icon_add.png" alt="icon_add">
+                        <p>MBox List</p>
+                    </div>
                 </div>
+                <!-- FIM ÁREA DE OPIÇÕES -->
 
-                <div class="nav-item">
-                    <img src="../assets/icons/icon_group.png" alt="icon_group">
-                    <p>Amigos</p>
+                <!-- INÍCIO ÁREA LOGO -->
+                <div class="logo-area">
+                    <img src="../assets/img/Logo.png" alt="logo" width="60%" height="auto">
                 </div>
+                <!-- FIM ÁREA LOGO -->
 
-                <div class="nav-item">
-                    <img src="../assets/icons/icon_user.png" alt="icon_user">
-                    <p>Perfil</p>
-                </div>
-
-                <div class="nav-item">
-                    <img src="../assets/icons/icon_search.png" alt="icon_search">
-                    <p>Pesquisar</p>
-                </div>
-
-                <div class="nav-item">
-                    <img src="../assets/icons/icon_add.png" alt="icon_add">
-                    <p>MBox List</p>
-                </div>
             </div>
-            <!-- FIM ÁREA DE OPIÇÕES -->
 
-            <!-- INÍCIO ÁREA LOGO -->
-            <div class="logo-area">
-                <img src="../assets/img/Logo.png" alt="logo" width="60%" height="auto">
+            <!-- FIM BARRA DA ESQUERDA -->
+
+            <!-- ÁREA DO MEIO -->
+            <div style="width: 60%; display: flex; flex-direction: column; height: 100vh;">
+                <!-- ÁREA DE BUSCA -->
+                <div class="search-area">
+                    <input type="text" id="search-input" placeholder="Digite para buscar">
+                    <button id="search-button">Buscar</button>
+                </div>
+                <!-- FIM ÁREA DE BUSCA -->
+
+                <!-- ÁREA DE COMENTÁRIOS -->
+                <div class="mid-content">
+                    <div id="infos-box" class="infos-box">
+                        <!-- <div style=" display: flex; flex-direction: column; align-items: center; width: 100%; height: 100%;">
+                            <div style="display: flex; justify-content: center; height: 10%;">
+                                <p style="margin-top: 20px;">Creed III</p> 
+                            </div>
+                            <div  style="display: flex; justify-content: center; height: 70%;">
+                                <img src="https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg" alt="">
+                            </div>
+                            <div  style="display: flex; justify-content: center; height: 20%; margin-top: 10px;">
+                                <div style="display: flex; flex-direction: column; height: 100%; align-items: center;">
+                                <div style="justify-content: space-evenly; width: 60%;">
+                                        <p>IMDb 7.0</p> 
+                                        <p>126 min</p> 
+                                        <p>2023</p> 
+                                        <p>Tim Burton</p> 
+                                </div>
+                                <div>
+                                    <p>The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.</p>
+                                </div>
+                                </div>
+                            </div>   
+                        </div> -->
+                    </div>
+                </div>
+                <!-- FIM ÁREA DE COMENTÁRIOS -->
             </div>
-             <!-- FIM ÁREA LOGO -->
-        </div>
+            <!-- FIM ÁREA DO MEIO -->
 
-         <!-- FIM BARRA DA ESQUERDA -->
+            <!-- INÍCIO BARRA DA DIREITA -->
+            <div class="right-area">
+                <img src="../assets/img/banner/banner_cred3.jpg" alt="banner">
+                <img src="../assets/img/banner/banner_op.jpg" alt="banner">
+            </div>
+            <!-- FIM BARRA DA ESQUERDA -->
 
-        <div style="background-color: blue; width: 60%;">
-            center
         </div>
-        <div class="right-area">
-            <img src="../assets/img/banner/banner_cred3.jpg" alt="banner">
-            <img src="../assets/img/banner/banner_op.jpg" alt="banner">
-        </div>
-    </div>
-</body>
-</html>
+    </body>
+
+    </html>
