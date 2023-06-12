@@ -15,10 +15,10 @@ Tela de Login -Na tela te login caso o usuário nao possua uma conta ele podera 
 Tela de registro - Na tela de registro você vai fazer seu cadastro com e-mail e uma senha. 
 ![registrando](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/0514abd6-a815-4867-9cd8-0d72b4fc9018)
 
-Tela de registro - Assim que o usuario fazer o registro, o registro era cair no nosso banco de dados.
+Tela de registro - Assim que o usuário finalizar o registro seus dados iram ser salvos em um banco de dados.
 ![banco-de-dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/a7fd5482-43af-45b5-865e-7c91b4ace2a8)
 
-Tela de pesquisa - Na tela de pesquisa você pode pesquisar sobre qualquer filme.
+Tela de pesquisa - Na tela de pesquisa ao acessar a barra de pesquisa o usuário informará sobre qual conteúdo deseja buscar.
 ![pesquisando](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/32d0b72a-45f5-4876-b6fb-9c06603f2ec6)
 
 Tela de pesquisa - Na tela de pesquisa abaixo, temos o resultado de uma pesquisa.
