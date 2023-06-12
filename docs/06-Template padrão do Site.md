@@ -1,12 +1,37 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+LINK PARA O SITE: https://moviebox.com.br/
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+TELA DE LOGIN
+![WhatsApp Image 2023-06-11 at 21 21 56](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/253362ac-c0d2-4f19-ab2d-11db4cc3b473)
+
+TELA DE REGISTRO
+![WhatsApp Image 2023-06-11 at 21 21 53](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/0701df2e-e2c7-4a16-8c68-98347fe20c89)
+
+TELA HOME/PAGINA PRINCIPAL
+![WhatsApp Image 2023-06-11 at 21 21 54](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/8fed755d-6acb-40bc-9641-58cdb3f26069)
+
+
+
+TELA PRINCIPAL PARA TELA DE BUSCA
+![WhatsApp Image 2023-06-11 at 21 21 54 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/03548ac0-1730-4d3a-931c-9b53c98af167)
+
+TELA DE BUSCA
+![WhatsApp Image 2023-06-11 at 21 26 30 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/e36fe5b0-3530-4dd4-a7d9-0ce8d3a09319)
+
+TELA DE BUSCA EXIBINDO O CONTEUDO ENCONTRADO BASEADO NO QUE FOI DIGITADO
+![WhatsApp Image 2023-06-11 at 21 21 55](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/8a80d795-8567-4b91-909b-90d1f516bca9)
+
+
+
+
+
+
+
+
+
+
+
+
+
