@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.login-view-container {
+    background-color: #FFFFFF;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-box {
+    background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
+    width: 90%;
+    height: 80%;
+    border-radius: 20px;
+    display: flex;
+}
+
+.login-box div {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form input[type="email"],
+.login-form input[type="password"] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+.login-form input[type="submit"] {
+  width: 100px;
+  height: 34px;
+  background-color: #FFFFFF;
+  color: #000000;
+  /* padding: 14px 20px; */
+  /* margin: 8px 0; */
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.login-form input[type="submit"]:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+}
