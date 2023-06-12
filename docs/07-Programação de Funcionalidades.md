@@ -9,7 +9,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 Tela de Login - Ao colocar seu e-mail e senha na tela de login, você será redirecionado para a nossa home page.
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/97c2e9fc-e218-4fde-b08f-9437dee96ede)
 
-Tela de Login - Na tela de login se você não tiver sua conta, você pode clicar em cria conta para pode criar sua conta.
+Tela de Login -Na tela te login caso o usuário nao possua uma conta ele podera criar uma clicando em "deseja criar uma conta" sendo direcionado para a tela de registro.
 ![criar-conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/53553ac5-6834-44d0-834a-5403f566a28f)
 
 Tela de registro - Na tela de registro você vai fazer seu cadastro com e-mail e uma senha. 
