@@ -2,7 +2,7 @@
 
 
 
-Link do site MovieBox abaixo:
+Link do site MovieBox:
 https://moviebox.com.br/
 
 Tela principal do site MovieBox
