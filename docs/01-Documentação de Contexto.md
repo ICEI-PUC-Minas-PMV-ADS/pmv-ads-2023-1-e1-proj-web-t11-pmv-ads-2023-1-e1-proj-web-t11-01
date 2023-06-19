@@ -13,9 +13,7 @@ O objetivo dessa ferramenta é proporcionar as pessoas um espaço onde possam de
 
 Como objetivos específicos, podemos ressaltar: 
 
-Disponibilizar ao usuário um espaço onde pode publicar e classificar todas as mídias que já consumiu e escrever uma pequena resenha relacionada a ela.  
-
-Permitir adicionar amigos para assim interagirem nas publicações uns dos outros.    
+Disponibilizar ao usuário um espaço onde pode publicar e classificar todas as mídias que já consumiu e escrever uma pequena resenha relacionada a ela.    
 
 Permitir ao usuário criar uma lista onde marca futuras mídias que tem vontade de consumir. 
 
