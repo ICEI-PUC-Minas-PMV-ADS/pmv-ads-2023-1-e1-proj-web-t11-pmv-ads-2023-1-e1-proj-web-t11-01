@@ -70,6 +70,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 |04| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
-|05| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
 
 
