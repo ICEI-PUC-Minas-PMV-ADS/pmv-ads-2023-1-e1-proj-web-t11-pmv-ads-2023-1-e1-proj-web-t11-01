@@ -26,7 +26,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Luísa Almeida   | Comunicar com pessoas com o mesmo gosto de filmes, series.           | Para saber a opinião delas sobre os filmes.               |
+|Luísa Almeida   | Me comunicar com pessoas com o mesmo gosto de filmes, series.           | Para saber a opinião delas sobre os filmes.               |
 |Marcos Oliveira      | Visualizar os filmes que estão em alta.                 | Gastar menos tempo procurando filme. |
 |Rafaela Dias       | Compartilhar com meus amigos os filmes que estou vendo ultimamente.                 | Para que tenhamos mais assuntos envolvendo filmes, series. |
 |Rodrigo Marques       | Fazer comentários em filmes que as pessoas estão vendo.                 | Ajudar pessoas com comentários e avaliações se o filme vale a pena ou não. |
