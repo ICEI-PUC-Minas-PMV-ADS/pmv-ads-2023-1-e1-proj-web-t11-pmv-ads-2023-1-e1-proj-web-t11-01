@@ -41,7 +41,7 @@ Os requisitos do projeto abordam algumas das funcionalidades essenciais do site 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O site deve apresentar uma seção de cadastro/login  | ALTA | 
-|RF-002| O site deve ter uma página principal onde deve apresentar as principais mídias do momento.    | ALTA |
+|RF-002| O site deve ter uma página principal onde deve apresentar as principais mídias no momento.    | ALTA |
 |RF-003| O site deve apresentar, para cada mídia, uma imagem correspondente ao assunto apresentado (thumbnail)  | MÉDIA | 
 |RF-004| O site deve permitir ao usuário visualizar o texto completo da sinopse da mídia com todos os detalhes da publicação    | MÉDIA |
 |RF-005| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar as mídias de sua preferência. | ALTA | 
