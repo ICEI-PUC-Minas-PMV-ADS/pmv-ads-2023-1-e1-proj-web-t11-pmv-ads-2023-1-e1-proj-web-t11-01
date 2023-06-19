@@ -57,10 +57,9 @@ Os requisitos do projeto abordam algumas das funcionalidades essenciais do site 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA | 
-|RNF-002| O site deverá ser responsivo permitindo a visualização em diversos dispositivos de forma adequada  |  ALTA | 
-|RNF-003| O site deve ser intuitivo e ter um designe agradável.  |  ALTA | 
-|RNF-004|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Opera)  |  ALTA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA |
+|RNF-002| O site deve ser intuitivo e ter um designe agradável.  |  ALTA | 
+|RNF-003|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Opera)  |  ALTA | 
 
 
 
