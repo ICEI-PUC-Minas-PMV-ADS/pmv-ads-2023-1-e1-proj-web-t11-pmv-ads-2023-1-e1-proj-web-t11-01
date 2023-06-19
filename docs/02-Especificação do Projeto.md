@@ -45,12 +45,9 @@ Os requisitos do projeto abordam algumas das funcionalidades essenciais do site 
 |RF-003| O site deve apresentar, para cada mídia, uma imagem correspondente ao assunto apresentado (thumbnail)  | MÉDIA | 
 |RF-004| O site deve permitir ao usuário visualizar o texto completo da sinopse da mídia com todos os detalhes da publicação    | MÉDIA |
 |RF-005| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar as mídias de sua preferência. | ALTA | 
-|RF-006| O site deve permitir visualizar as informações de contatos dos responsáveis pelo site    | BAIXA |
-|RF-007| O site deve permitir o compartilhamento de avaliações das mídias assistidas em seu feed. | BAIXA | 
-|RF-008| O site deve permitir salvar mídias preferidas    | BAIXA |
-|RF-009| O site deve permitir verificar as mídias salvas como preferidas no perfil do usuário  | BAIXA | 
-|RF-0010| O site deve permitir que usuários possam comentar mídias    | ALTA |
-|RF-0011| O site deve exibir os comentários registrados juntamente com a mídia exibida  | ALTA | 
+|RF-006| O site deve permitir salvar mídias preferidas    | BAIXA |
+|RF-007| O site deve permitir verificar as mídias salvas como preferidas no perfil do usuário  | BAIXA |
+|RF-008| O site deve exibir os comentários registrados juntamente com a mídia exibida  | ALTA | 
 
 
 ### Requisitos não Funcionais
