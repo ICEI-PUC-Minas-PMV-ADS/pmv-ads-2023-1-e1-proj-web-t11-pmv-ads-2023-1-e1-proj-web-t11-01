@@ -4,21 +4,22 @@ Esse projeto foi construído por uma equipe que através de nosso idealizador pr
 
 ## Personas
 
-![luisa](https://user-images.githubusercontent.com/111918966/236958447-c0c98fc4-a753-459f-888b-6e60cba928f5.jpg)
+![luisa](https://user-images.githubusercontent.com/111918966/236958447-c0c98fc4-a753-459f-888b-6e60cba928f5.jpg)
 
-Luisa Almeida tem 17 anos, e é uma estudante que está terminando o último ano da escola. Ela é apaixonada por fotografia, música indie e escrever sobre questões sociais. Ela adora sair com seus amigos e experimentar novos cafés e bares na cidade. Costuma usar os aplicativos Instagram, Twitter, Linkedin, TikTok, Kindle e Netflix. Busca falar sobre os filmes que gosta com os amigos e deseja deixar sua opinião para os seus amigos sobre as suas séries favoritas. E tem dificuldade em encontrar um site onde pode deixar sua opinião sobre suas mídias favoritas.
+
+Luisa Almeida tem 17 anos, e é uma estudante que está terminando o último ano da escola. Ela é apaixonada por fotografia, música indie e escrever sobre questões sociais. Ela adora sair com seus amigos e experimentar novos cafés e bares na cidade. Costuma usar os aplicativos Instagram, Twitter, Linkedin, TikTok, Kindle e Netflix. Busca falar sobre os filmes que gosta com os amigos e deseja deixar sua opinião para os seus amigos sobre as suas séries favoritas mas tem dificuldade em encontrar um site onde possa deixar sua opinião sobre suas mídias favoritas.
 
 ![marcos](https://user-images.githubusercontent.com/111918966/236958460-7d5d9b30-d337-4c9b-9e91-02f1ee4ec3e9.jpg)
 
-Marcos Oliveira tem 35 anos,ele é um executivo de uma empresa de tecnologia. É casado e tem um filho de 6 anos. Ele é muito ocupado com o trabalho, mas tenta equilibrar sua vida pessoal e profissional. Gosta de fazer exercícios, ler livros de negócios e viajar com sua família. Costuma usar os aplicativos Facebook, Linkedin, Instagram, Kindle e Amazon Prime. Pretende passar mais tempo com o seu filho assistindo desenhos de super heróis, além de buscar assistir filmes românticos com sua esposa durante a noite. Infelizmente perde muito tempo procurando em sites vários o que assistir com o seu filho.
+Marcos Oliveira tem 35 anos,ele é um executivo de uma empresa de tecnologia. É casado e tem um filho de 6 anos. Ele é muito ocupado com o trabalho, mas tenta equilibrar sua vida pessoal e profissional. Gosta de fazer exercícios, ler livros de negócios e viajar com sua família. Costuma usar os aplicativos Facebook, Linkedin, Instagram, Kindle e Amazon Prime. Pretende passar mais tempo com o seu filho assistindo desenhos de super heróis, além de buscar assistir filmes românticos com sua esposa durante a noite porém perde parte deste tempo curto que tem procurando mídias de seu interesse para com o filho e a esposa.
 
 ![rafaela](https://user-images.githubusercontent.com/111918966/236958484-d7b2bb2b-e5ac-4f25-b39a-3569b962a351.jpg)
 
-Rafaela Dias tem 45 anos, é uma advogada que trabalha em uma empresa de grande porte. É solteira e não tem filhos, mas adora seus sobrinhos. Gosta de fazer trilhas, nadar e ir a concertos de música clássica. Ela também gosta de cozinhar e experimentar novas receitas. Utiliza os aplicativos Linkedin, Instagram e HBO Max. Gostaria de assistir séries sobre histórias com seus sobrinhos e busca também está por dentro do que há de novo no mundo dos filmes e séries. Encontra dificuldade de saber qual filme assistir quando não encontra muitas avaliações em sua categoria favorita.
+Rafaela Dias tem 45 anos, é uma advogada que trabalha em uma empresa de grande porte. É solteira e não tem filhos, mas adora seus sobrinhos. Gosta de fazer trilhas, nadar e ir a concertos de música clássica. Ela também gosta de cozinhar e experimentar novas receitas. Utiliza os aplicativos Linkedin, Instagram e HBO Max. Gostaria de assistir séries com seus sobrinhos e ficar por dentro do que há de novo no mundo dos filmes e séries. Encontra dificuldades em saber qual filme assistir quando não encontra muitas avaliações em sua categoria favorita.
 
 ![rodrigo](https://user-images.githubusercontent.com/111918966/236958468-42540af4-05ed-4604-a582-18ffb941c41d.jpg)
 
-Rodrigo Marques tem 55 anos, é um empresário que possui sua própria empresa de construção. É casado e tem dois filhos adultos. Gosta de jogar golfe, fazer viagens de moto e ler livros sobre história e política. Também é um amante da gastronomia e gosta de cozinhar para sua família e amigos. Utliza os aplicativos Linkedin, Instagram e Apple Tv. Quer assistir mais documentários sobre assuntos intrigantes e busca analisar as opiniões de seus amigos e debater sobre tal mídia assistida. Não consegue deixar sua opinião sobre suas mídias assistidas, para gerar debates bem construtivos.
+Rodrigo Marques tem 55 anos, é um empresário que possui sua própria empresa de construção. É casado e tem dois filhos adultos. Gosta de jogar golfe, fazer viagens de moto e ler livros sobre história e política. Também é um amante da gastronomia e gosta de cozinhar para sua família e amigos. Utliza os aplicativos Linkedin, Instagram e Apple Tv. Quer assistir mais documentários sobre assuntos intrigantes e busca analisar as opiniões de seus amigos e debater sobre tal mídia assistida. Sente falta de um espaço para deixar sua opinião sobre suas mídias assistidas e gerar debates bem construtivos.
 
 ## Histórias de Usuários
 
