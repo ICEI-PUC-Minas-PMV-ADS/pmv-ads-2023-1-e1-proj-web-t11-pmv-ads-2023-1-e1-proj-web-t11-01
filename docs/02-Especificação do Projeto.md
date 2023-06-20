@@ -6,6 +6,23 @@ Esse projeto foi construído por uma equipe que através de nosso idealizador pr
 
 ![luisa](https://user-images.githubusercontent.com/111918966/236958447-c0c98fc4-a753-459f-888b-6e60cba928f5.jpg)
 
+ 	Luísa Almeida
+	Idade: 17
+Ocupação: Luísa é uma estudante que está terminando o último ano da escola.	Aplicativos:
+●	Instagram
+●	Twitter
+●	Linkedin
+●	TikTok
+●	Kindle
+●	Netflix
+Motivações:
+●	Busca falar sobre os filmes que gosta com os amigos.
+
+●	Deseja deixar sua opinião para os seus amigos sobre as suas séries favoritas.
+
+	Frustração: Tem dificuldade em encontrar um site onde pode deixar sua opinião sobre suas mídias favoritas.	Hobbies, História: Ela é apaixonada por fotografia, música indie e escrever sobre questões sociais. Ela adora sair com seus amigos e experimentar novos cafés e bares na cidade.
+
+
 Luisa Almeida tem 17 anos, e é uma estudante que está terminando o último ano da escola. Ela é apaixonada por fotografia, música indie e escrever sobre questões sociais. Ela adora sair com seus amigos e experimentar novos cafés e bares na cidade. Costuma usar os aplicativos Instagram, Twitter, Linkedin, TikTok, Kindle e Netflix. Busca falar sobre os filmes que gosta com os amigos e deseja deixar sua opinião para os seus amigos sobre as suas séries favoritas. E tem dificuldade em encontrar um site onde pode deixar sua opinião sobre suas mídias favoritas.
 
 ![marcos](https://user-images.githubusercontent.com/111918966/236958460-7d5d9b30-d337-4c9b-9e91-02f1ee4ec3e9.jpg)
