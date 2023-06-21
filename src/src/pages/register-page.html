@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVIEBOX - REGISTER</title>
+
+    <link rel="stylesheet" href="../css/register-style.css">
+    <script src="../js/register.js"> </script>
+</head>
+
+<body>
+    <div class="register-view-container">
+
+        <!-- ÁREA DE REGISTRO -->
+        <div class="register-box">
+            <div>
+                <img src="../assets/img/Logo.png" alt="logo" width="50%" height="auto">
+            </div>
+
+            <div class="register-form">
+                <form onsubmit="return validarFormulario()" style="width: 80%; height: 40%; display: flex; flex-direction: column; align-items: center; padding-inline: 10%;">
+                    <input type="email" id="email" name="email" placeholder="E-mail" required>
+                    <br>
+
+                    <input type="password" id="password" name="password" placeholder="Senha" required>
+                    <br>
+                    <input type="submit" value="Registar">
+                </form>
+            </div>
+
+        </div>
+        <!-- FIM ÁREA DE REGISTRO -->
+    </div>
+</body>
+
+</html>

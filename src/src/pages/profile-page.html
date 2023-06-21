@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVIEBOX - HOME</title>
+    <link rel="stylesheet" href="../css/profile-style.css">
+    <script src="../js/profile.js"></script>
+
+</head>
+
+<body>
+    <div class="home-container">
+
+        <!-- INÍCIO BARRA DA ESQUERDA -->
+        <div class="left-area">
+
+            <!-- INÍCIO ÁREA FOTO DE PERFIL -->
+            <div class="foto-perfil-area">
+                 <img src="../assets/img/perfiluser.png" alt="foto-perfil" width="60%" height="auto">
+            </div>
+            <!-- FIM ÁREA FOTO DE PERFIL -->
+
+            <!-- INÍCIO ÁREA DE OPÇÕES -->
+            <div class="menu-left" style="height: 50%; padding: 10%;">
+                <div class="nav-item">
+                    <a href="../pages/home-page.html"><img src="../assets/icons/icon_home.png" alt="icon_home"></a>
+                    <p>Página Inicial</p>
+                </div>
+
+                <div class="nav-item">
+                    <a href="../pages/profile-page.html"><img src="../assets/icons/icon_user.png" alt="icon_user"></a>
+                    <p>Perfil</p>
+                </div>
+
+                <div class="nav-item">
+                    <a href="../pages/search-page.html"><img src="../assets/icons/icon_search.png" alt="icon_search"></a>
+                    <p>Pesquisar</p>
+                </div>
+
+                <div class="nav-item">
+                    <a href="../pages/mboxlist-page.html"><img src="../assets/icons/icon_add.png" alt="icon_add"></a>
+                    <p>MBox List</p>
+                </div>
+            </div>
+            <!-- FIM ÁREA DE OPÇÕES -->
+
+            <!-- INÍCIO ÁREA LOGO -->
+            <div class="logo-area">
+                <img src="../assets/img/Logo.png" alt="logo" width="60%" height="auto">
+            </div>
+            <!-- FIM ÁREA LOGO -->
+
+
+        </div>
+        <!-- FIM BARRA DA ESQUERDA -->
+
+        <!-- ÁREA DO MEIO -->
+        <div style="width: 60%; display: flex; flex-direction: column; height: 100vh;">
+            <!-- ÁREA DE BUSCA -->
+            <div class="bio-area">
+                <h1>Joyce Muller</h1>
+                <h3>@joyce_muller</h3>
+                <P>24a, Rio de Janeiro
+                <br>Psicologia | UERJ
+                <br>@rodrigo.santos96💍
+                </P>
+            </div>
+            <!-- FIM ÁREA DE BUSCA -->
+
+            <!-- ÁREA DE COMENTÁRIOS -->
+            <div class="mid-content">
+                <div class="create-post">
+                    <div class="foto-perfil-post" style="width: 20%;">
+                        <img src="../assets/img/perfiluser.png" alt="img-perfil-post" class="img-perfil-post">
+                        <h3>Joyce Muller</h3>
+                    </div>
+                    <div class="texto-post" style="width: 50%;">
+                        <p id="texto-post-conteudo"></p>
+                        <textarea class="input-text" id="input-texto-post" placeholder="Digite um texto (Máximo de 500 caracteres.)" maxlength="500"></textarea>
+                        <input type="text" id="input-url-banner" placeholder="URL da imagem do banner">
+                        <button onclick="atualizarPost()">Atualizar</button> <!-- Botão para atualizar o texto e a imagem -->
+                    </div>
+                    <div class="post-banner" style="width: 30%;">
+                        <img src="../assets/icons/icon_add_post.png" alt="banner-post" class="banner-post" id="banner-img">
+                    </div>
+                </div>
+
+                <div class="post-feito" id="postagens-container" style="display: flex; "></div>
+
+            </div>
+            <!-- FIM ÁREA DE COMENTÁRIOS -->
+        </div>
+        <!-- FIM ÁREA DO MEIO -->
+
+        <!-- INÍCIO BARRA DA DIREITA -->
+        <div class="right-area"  >
+            <div class="friend">
+                <img src="../assets/img/user1.png" alt="friend-icon">
+                <p>Rodrigo Santos</p>
+            </div>
+
+            <div class="friend">
+                <img src="../assets/img/user2.png" alt="friend-icon">
+                <p>Helena Gomes</p>
+            </div>
+    
+            <div class="friend">
+                <img src="../assets/img/user3.png" alt="friend-icon"> 
+                <p>Viviane Silva</p>
+            </div>
+
+            <div class="friend">
+                <img src="../assets/img/user4.png" alt="friend-icon"> 
+                <p>Wallace Miguel</p>
+            </div>
+
+            
+        </div>
+        <!-- FIM BARRA DA ESQUERDA -->
+
+    </div>
+</body>
+
+</html>
