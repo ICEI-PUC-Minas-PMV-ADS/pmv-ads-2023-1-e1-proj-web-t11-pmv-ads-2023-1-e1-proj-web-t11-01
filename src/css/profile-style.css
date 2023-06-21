@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.home-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+
+/** INICIOO ESTILIZAÇÃO DA COLUNA ESQUERDA **/
+
+.left-area {
+    width: 20%;
+    height: 100vh;
+    background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
+}
+
+.menu-left {
+    flex-direction: column;
+}
+
+.foto-perfil-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.nav-item img {
+    width: 40px
+}
+
+.nav-item p {
+    margin-left: 10px;
+}
+
+.logo-area {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/** FIM ESTILIZAÇÃO DA COLUNA ESQUERDA **/
+
+
+/** INICIOO ESTILIZAÇÃO DA COLUNA DIREITA **/
+.right-area {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 20%;
+    height: 100vh;
+    background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
+}
+
+.right-area img {
+    display: flex;
+    width:50%;
+    height: auto;
+    
+}
+
+.right-area p {
+    font-weight: bold;
+}
+
+/** FIM ESTILIZAÇÃO DA COLUNA DIREITA **/
+
+/** INICIOO ESTILIZAÇÃO DA COLUNA MEIO **/
+
+.friend {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: none;
+}
+
+.mid-content {
+    height: 90vh;
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2%;
+    padding-top: 5%;
+}
+
+.bio-area{
+
+    padding: 3%;
+    padding-left: 5%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+}
+
+.create-post {
+    display: flex;
+    flex-direction: row;
+    padding: none ;
+    align-items: center;
+    border-radius: 5px;
+    background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
+}
+
+.texto-post {
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    text-align: justify; 
+}
+
+.img-perfil-post{
+    width: 100%;
+    
+}
+.foto-perfil-post {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.foto-perfil-post h3 {
+    color: white;
+}
+
+.banner-post{
+    width: 100%;
+
+}
+
+.banner-post img{
+    width: 100%;
+
+}
+
+
+
+.input-text {
+    width: 100%;
+    height: 200px; /* Altura fixa de 200 pixels */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    resize: vertical;
+}
+
+button {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+}
+ 
+button:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+}
+
+#postagens-container .foto-perfil-post img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+  #postagens-container .post-banner img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+.post-feito .postagem {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    border-radius: 5px;
+    background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
+}

@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+
+*,
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.home-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+
+/** EStilização LEFT AREA**/
+.left-area {
+    width: 20%;
+    height: 100vh;
+    background-image: linear-gradient(135deg, #fa8639 10%, #010538e0 100%);
+
+}
+
+.left-area p {
+    color: black;
+
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.nav-item img {
+    width: 40px
+}
+
+.nav-item p {
+    margin-left: 10px;
+}
+
+.logo-area {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/** EStilização LEFT AREA**/
+
+
+.mid-right-area {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    flex-direction: row;
+    width: 94%;
+
+
+}
+
+/** EStilização MID AREA**/
+
+.mid-area {
+
+    width: 100%;
+    height: 80vh;
+    margin: 2%;
+    border-radius: 10px;
+    background-image: linear-gradient(135deg, #fa8639 10%, #010538e0 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+    flex-direction: row;
+}
+
+.text-assistidos {
+    text-align: left;
+}
+
+/** EStilização MID AREA**/
+
+
+/** EStilização ROGTH AREA**/
+.right-area {
+
+    width: 100%;
+    height: 80vh;
+    background-image: linear-gradient(135deg, #fa8639 10%, #010538e0 100%);
+    margin: 2%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.text-assitir {
+    text-align: left;
+}
+
+/** EStilização ROGTH AREA**/
+
+
+.mid-content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 100vh;
+}
+.recent-view img{
+    margin-left: 5%;
+    height: 100px;
+    width: 70px;
+    border-radius: 5px;
+    background-image: linear-gradient(135deg, #fa8639 10%, #010538e0 100%);
+
+}
+
+.recent-view{
+    margin-top: 1%;
+    display: flex;
+    border-radius:10px ;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 300px;
+    background-image: linear-gradient(135deg, #fa8639 10%, #010538e0 100%);
+}
