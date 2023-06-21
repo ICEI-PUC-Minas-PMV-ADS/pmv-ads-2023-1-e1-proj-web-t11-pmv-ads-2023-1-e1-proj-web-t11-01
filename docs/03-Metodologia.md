@@ -48,6 +48,7 @@ A equipe é responsável por gerenciar o quadro Kanban, movendo as tarefas entre
  
 > **Links Úteis**:
 > - GitHub: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424
+> - Trello: https://trello.com/b/fQN9PEJ4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end
 
 ### Ferramentas
 
