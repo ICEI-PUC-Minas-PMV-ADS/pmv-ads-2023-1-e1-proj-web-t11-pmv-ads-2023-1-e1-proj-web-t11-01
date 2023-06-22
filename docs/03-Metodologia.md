@@ -29,7 +29,7 @@ A equipe está organizada da seguinte maneira:
 
 Scrum Master: Israel Moreira 
 
-Product Owner: Israel Moreira 
+Product Owner: Guilherme Martins
 
 Equipe de Desenvolvimento: Gabriel Oliveira, Guilherme Martins, Cesar Augusto e Israel Moreira 
 
