@@ -9,13 +9,10 @@ Levando esses dados em consideração e a falta de uma ferramenta voltada para f
 
 ## Objetivos
 
-O objetivo desta ferramenta é proporcionar aos usuários um ambiente onde possam avaliar e deixar suas opiniões sobre mídias de seus interesses criando um espaço interativo com outros usuários que poderam interagir entre si comentando,avaliando e compartilhando mídias audiovisuais 
-
+O objetivo desta ferramenta é proporcionar aos usuários um ambiente onde possam avaliar e deixar suas opiniões sobre mídias de seus interesses criando um espaço interativo com outros usuários que podem interagir entre si comentando, avaliando e compartilhando mídias audiovisuais.
 Como objetivos específicos, podemos ressaltar: 
 
-Disponibilizar ao usuário um espaço onde pode publicar e classificar todas as mídias que já consumiu e escrever uma pequena resenha relacionada a ela.  
-
-Permitir adicionar amigos para assim interagirem nas publicações uns dos outros.    
+Disponibilizar ao usuário um espaço onde pode publicar e classificar todas as mídias que já consumiu e escrever uma pequena resenha relacionada a ela.   
 
 Permitir ao usuário criar uma lista onde marca futuras mídias que tem vontade de consumir. 
 
