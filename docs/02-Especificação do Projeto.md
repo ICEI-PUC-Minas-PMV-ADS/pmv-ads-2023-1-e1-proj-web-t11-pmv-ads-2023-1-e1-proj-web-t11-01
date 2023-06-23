@@ -49,10 +49,9 @@ Os requisitos do projeto abordam algumas das funcionalidades essenciais do site 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA | 
-|RNF-002| O site deverá ser responsivo permitindo a visualização em diversos dispositivos de forma adequada  |  ALTA | 
-|RNF-003| O site deve ser intuitivo e ter um designe agradável.  |  ALTA | 
-|RNF-004|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Opera)  |  ALTA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA |
+|RNF-002| O site deve ser intuitivo e ter um designe agradável.  |  ALTA | 
+|RNF-003|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Opera)  |  ALTA | 
 
 
 
@@ -66,6 +65,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 |04| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
-|05| Todos os membros do grupo devem ser responsáveis por cada parte do Trabalho.|
 
 
