@@ -6,10 +6,6 @@ Esse projeto foi construído por uma equipe que através de nosso idealizador pr
 
 ![IMG_20230623_174723.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/45dcd987-b24f-4f44-ab94-14139cc3fab5)
 
-![luisa](https://user-images.githubusercontent.com/111918966/236958447-c0c98fc4-a753-459f-888b-6e60cba928f5.jpg)
-
-Luisa Almeida tem 17 anos, e é uma estudante que está terminando o último ano da escola. Ela é apaixonada por fotografia, música indie e escrever sobre questões sociais. Ela adora sair com seus amigos e experimentar novos cafés e bares na cidade. Costuma usar os aplicativos Instagram, Twitter, Linkedin, TikTok, Kindle e Netflix. Busca falar sobre os filmes que gosta com os amigos e deseja deixar sua opinião para os seus amigos sobre as suas séries favoritas. E tem dificuldade em encontrar um site onde pode deixar sua opinião sobre suas mídias favoritas.
-
 ![marcos](https://user-images.githubusercontent.com/111918966/236958460-7d5d9b30-d337-4c9b-9e91-02f1ee4ec3e9.jpg)
 
 Marcos Oliveira tem 35 anos,ele é um executivo de uma empresa de tecnologia. É casado e tem um filho de 6 anos. Ele é muito ocupado com o trabalho, mas tenta equilibrar sua vida pessoal e profissional. Gosta de fazer exercícios, ler livros de negócios e viajar com sua família. Costuma usar os aplicativos Facebook, Linkedin, Instagram, Kindle e Amazon Prime. Pretende passar mais tempo com o seu filho assistindo desenhos de super heróis, além de buscar assistir filmes românticos com sua esposa durante a noite. Infelizmente perde muito tempo procurando em sites vários o que assistir com o seu filho.
