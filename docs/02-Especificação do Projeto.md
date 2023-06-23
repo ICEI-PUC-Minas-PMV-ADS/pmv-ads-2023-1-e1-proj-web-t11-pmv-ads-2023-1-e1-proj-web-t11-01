@@ -6,17 +6,11 @@ Esse projeto foi construído por uma equipe que através de nosso idealizador pr
 
 ![IMG_20230623_174723.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/45dcd987-b24f-4f44-ab94-14139cc3fab5)
 
-![marcos](https://user-images.githubusercontent.com/111918966/236958460-7d5d9b30-d337-4c9b-9e91-02f1ee4ec3e9.jpg)
+![IMG_20230623_180004.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/408a46a8-ec95-4449-ae2c-19d5deaaa57c)
 
-Marcos Oliveira tem 35 anos,ele é um executivo de uma empresa de tecnologia. É casado e tem um filho de 6 anos. Ele é muito ocupado com o trabalho, mas tenta equilibrar sua vida pessoal e profissional. Gosta de fazer exercícios, ler livros de negócios e viajar com sua família. Costuma usar os aplicativos Facebook, Linkedin, Instagram, Kindle e Amazon Prime. Pretende passar mais tempo com o seu filho assistindo desenhos de super heróis, além de buscar assistir filmes românticos com sua esposa durante a noite. Infelizmente perde muito tempo procurando em sites vários o que assistir com o seu filho.
+![IMG_20230623_180143.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/1a05f8d2-d2cf-4a72-a918-77f64f685d67)
 
-![rafaela](https://user-images.githubusercontent.com/111918966/236958484-d7b2bb2b-e5ac-4f25-b39a-3569b962a351.jpg)
-
-Rafaela Dias tem 45 anos, é uma advogada que trabalha em uma empresa de grande porte. É solteira e não tem filhos, mas adora seus sobrinhos. Gosta de fazer trilhas, nadar e ir a concertos de música clássica. Ela também gosta de cozinhar e experimentar novas receitas. Utiliza os aplicativos Linkedin, Instagram e HBO Max. Gostaria de assistir séries sobre histórias com seus sobrinhos e busca também está por dentro do que há de novo no mundo dos filmes e séries. Encontra dificuldade de saber qual filme assistir quando não encontra muitas avaliações em sua categoria favorita.
-
-![rodrigo](https://user-images.githubusercontent.com/111918966/236958468-42540af4-05ed-4604-a582-18ffb941c41d.jpg)
-
-Rodrigo Marques tem 55 anos, é um empresário que possui sua própria empresa de construção. É casado e tem dois filhos adultos. Gosta de jogar golfe, fazer viagens de moto e ler livros sobre história e política. Também é um amante da gastronomia e gosta de cozinhar para sua família e amigos. Utliza os aplicativos Linkedin, Instagram e Apple Tv. Quer assistir mais documentários sobre assuntos intrigantes e busca analisar as opiniões de seus amigos e debater sobre tal mídia assistida. Não consegue deixar sua opinião sobre suas mídias assistidas, para gerar debates bem construtivos.
+![IMG_20230623_180308.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/4492d600-8e9b-43e5-8939-95ff7c107d35)
 
 ## Histórias de Usuários
 
