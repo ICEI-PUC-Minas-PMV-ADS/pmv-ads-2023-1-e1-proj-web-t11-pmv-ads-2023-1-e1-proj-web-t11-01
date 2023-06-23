@@ -4,13 +4,13 @@ Esse projeto foi construído por uma equipe que através de nosso idealizador pr
 
 ## Personas
 
-![IMG_20230623_174723.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/45dcd987-b24f-4f44-ab94-14139cc3fab5)
+![IMG_20230623_182647.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/76149d2e-76f7-4a13-9a32-0cebb43532cd)
 
-![IMG_20230623_180004.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/408a46a8-ec95-4449-ae2c-19d5deaaa57c)
+![IMG_20230623_182726.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/0a4468d6-9a27-4d18-ac69-c2c32bb80d9e)
 
-![IMG_20230623_180143.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/1a05f8d2-d2cf-4a72-a918-77f64f685d67)
+![IMG_20230623_182855.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/3dfc3a96-2cb5-4640-90b5-1b1748aaaacb)
 
-![IMG_20230623_180308.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/4492d600-8e9b-43e5-8939-95ff7c107d35)
+![IMG_20230623_182827.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/7ce3d3c8-c9f7-46a1-82fc-f34b3fc38c62)
 
 ## Histórias de Usuários
 
