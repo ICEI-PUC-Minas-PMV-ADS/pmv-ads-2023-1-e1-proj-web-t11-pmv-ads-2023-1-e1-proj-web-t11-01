@@ -28,7 +28,5 @@ Já em relação ao mídias audiovisuais podemos considerar as informações com
 
 ## Público-Alvo
 
-Com base nesses dados e considerando também as exceções, podemos filtrar o público-alvo dessa ferramenta, homes e mulheres entre 15 a 55 anos de idade que queiram interagir com outros grupos baseados em seus consumos das mídias.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Com base nesses dados e considerando também as exceções, podemos filtrar o público-alvo dessa ferramenta, homes e mulheres entre 15 a 55 anos de idade que queiram interagir com outros grupos baseados em seus consumos das mídias.
 
