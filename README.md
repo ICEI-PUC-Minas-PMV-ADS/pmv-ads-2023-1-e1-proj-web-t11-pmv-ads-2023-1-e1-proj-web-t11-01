@@ -1,6 +1,9 @@
 # MovieBox
 ![mb2](https://user-images.githubusercontent.com/111918966/233815524-7a69024b-9ece-45d2-88ef-b4fe74f6a00e.png)
 
+
+![Logo.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126192201/7632e2ad-c509-496c-be74-2a4df65e8387)
+
 `Análise e Desenvolvimento de Sistemas`
 
 `Eixo 1 - Projeto:Desenvolvimento de Aplicação Web Front-End - Turma 11 - 2023/1`
