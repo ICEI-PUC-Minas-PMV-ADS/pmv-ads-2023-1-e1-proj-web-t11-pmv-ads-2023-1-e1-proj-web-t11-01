@@ -30,7 +30,7 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 2 - Tela - Login 
 
-A tela a seguir disponibiliza aos usuários a opção de se logar no site, bem com apresenta ao novo usuário a opção de se registrar no usando o e-mail e senha. 
+A tela a seguir disponibiliza aos usuários a opção de se logar no site, bem com apresenta ao novo usuário a opção de se registrar usando o e-mail e senha. 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/3125af93-307c-4998-ae71-cf327874a2d4)
 
 
