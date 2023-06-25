@@ -2,7 +2,7 @@
 # Metodologia
 
 
-A metodologia utilizada em um projeto de desenvolvimento de software abrange varios processos ao decorrer do desenvolvimento, desde a ideia inicial até finalização do projeto. Junto a definição de técnicas e ferramentas a serem utilizadas pelo grupo para a elaboração do código assim como a distribuição de tarefas entre a equipe. 
+A metodologia utilizada em um projeto de desenvolvimento de software abrange vários processos ao decorrer do desenvolvimento, desde a ideia inicial até finalização do projeto. Junto a definição de técnicas e ferramentas a serem utilizadas pelo grupo para a elaboração do código assim como a distribuição de tarefas entre a equipe. 
 
 # Relação de Ambientes de Trabalho
 
@@ -29,7 +29,7 @@ A equipe está organizada da seguinte maneira:
 
 Scrum Master: Israel Moreira 
 
-Product Owner: Israel Moreira 
+Product Owner: Guilherme Martins
 
 Equipe de Desenvolvimento: Gabriel Oliveira, Guilherme Martins, Cesar Augusto e Israel Moreira 
 
@@ -47,8 +47,7 @@ A equipe é responsável por gerenciar o quadro Kanban, movendo as tarefas entre
 ![6d3cf199-6479-46c1-85e5-9b6f61da11e0](https://user-images.githubusercontent.com/111918966/233823021-db14172d-8bf7-46b1-b361-35596f014a4a.jpg)
  
 > **Links Úteis**:
-> - GitHub: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424
-> - Trello: https://trello.com/b/fQN9PEJ4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end
+> - GitHub: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/424
 
 ### Ferramentas
 
@@ -62,12 +61,4 @@ O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Github](https://github.com/)
-> - Vscode e replit (Pois são duas IDE excelentes e uma delas que é o replit é uma IDE online)
-> - Discord, Microsoft Teams e WhatsApp (são 3 softwares ótimos para fazer reunião ou conversar sobre o projeto)
-> - Figma - (Fácil e excelente de usar para projetar fluxos ou Wireframes)
+necessidades da nossa solução.
