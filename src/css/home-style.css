@@ -67,6 +67,7 @@
     background-image: linear-gradient( 135deg, #fa8639 10%, #010538e0 100%);
     width: 90%; 
     margin-top: 20px;
+    border-radius: 5px;
 }
 
 .comment-box div {
