@@ -6,36 +6,20 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+Tela de Login - Ao informar o e-mail e a senha o usuário será direcionado para a home-page/tela principal.
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/97c2e9fc-e218-4fde-b08f-9437dee96ede)
 
-|RF-01   | O site deve apresentar uma seção de cadastro/login.  |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/740483e9-60c9-4c3a-9ce7-117ca3bb721c)|REQUISITO ATENDIDO |
+Tela de Login - Na tela de login caso o usuário não possua uma conta ele poderá criar uma clicando em "deseja criar uma conta" sendo direcionado para a tela de registro.
+![criar-conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/53553ac5-6834-44d0-834a-5403f566a28f)
 
-|RF-02   | O site deve ter uma página principal onde deve apresentar as principais mídias do momento.  |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/ad16751b-98d6-450b-873c-aa7180c0bb89)|REQUISITO ATENDIDO |
+Tela de registro - Na tela de registro o usuário poderá criar uma conta informando um endereço de e-mail e uma senha. 
+![registrando](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/0514abd6-a815-4867-9cd8-0d72b4fc9018)
 
-| RF-03   |O site deve disponibilizar a opção de criar uma postagem.  |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/3305950c-2b99-44b3-a38b-96d66b29bb19)|REQUISITO ATENDIDO |
+Tela de registro - Assim que o usuário finalizar o registro seus dados iram ser salvos em um banco de dados para que possa ser realizado o login posteriormente.
+![banco-de-dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/a7fd5482-43af-45b5-865e-7c91b4ace2a8)
 
-| RF-04   | O site deve permitir ao usuário visualizar o texto completo da sinopse da mídia com todos os detalhes da publicação |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/71970293-74c2-4e22-8a8d-c97efe4edb3c)|REQUISITO ATENDIDO |
+Tela de pesquisa - Na tela de pesquisa ao acessar a barra de pesquisa o usuário informará sobre qual conteúdo deseja buscar.
+![pesquisando](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/32d0b72a-45f5-4876-b6fb-9c06603f2ec6)
 
-| RF-05   | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar as mídias de sua preferência.  |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/778f2506-4182-4653-9859-2d72f43dcca5)|REQUISITO ATENDIDO |
-
-| RF-06   | O site deve permitir salvar mídias preferidas |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/7a9655ba-7233-48ab-a083-5679d7e18cde)|REQUISITO ATENDIDO |
-
-| RF-07   | O site deve permitir verificar as mídias salvas como preferidas no perfil do usuário |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/741c2063-e21c-4f5a-a63e-70b488e58f08)|REQUISITO ATENDIDO |
-
-| RF-08   |O site deve exibir os comentários registrados juntamente com a mídia exibida |
-| ------------- | ------------- |
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/1a3f318e-9d43-48b2-b4e0-d447431b1c0d)|REQUISITO ATENDIDO |
-
+Tela de pesquisa - Na tela de pesquisa abaixo, temos o resultado de uma pesquisa.
+![naruto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/126619667/d5f4eabc-1d52-4479-99c4-e41c7ee37f9b)

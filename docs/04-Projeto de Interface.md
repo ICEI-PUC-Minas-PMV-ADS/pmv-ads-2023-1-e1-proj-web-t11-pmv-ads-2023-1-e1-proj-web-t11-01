@@ -3,8 +3,7 @@
 
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
 ## User Flow
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/3c779368-6143-4052-93b6-b1cb8443d57e)
-
+![fo](https://user-images.githubusercontent.com/111918966/233820978-69cd514a-b16b-4fe6-a939-5a59f2250a79.PNG)
 
 
 
@@ -22,17 +21,17 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 ●	Conteúdo - Apresenta o conteúdo da tela em questão.
 
 ●	Barra lateral - apresenta os elementos de interesse do usuário, geralmente associados aos elementos do bloco de conteúdo.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/e4f278c7-57e7-485f-b38e-efe3ac512c5d)
 
+![1](https://user-images.githubusercontent.com/126619667/233822167-d22065f5-f9af-4546-9800-c5afaf7fe66c.png)
 
 
 
 
 2 - Tela - Login 
 
-A tela a seguir disponibiliza aos usuários a opção de se logar no site, bem com apresenta ao novo usuário a opção de se registrar usando o e-mail e senha. 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/3125af93-307c-4998-ae71-cf327874a2d4)
+A tela a seguir disponibiliza aos usuários a opção de se logar no site, bem com apresenta ao novo usuário a opção de se registrar no usando o e-mail e senha ou sua conta Google/Facebook. Em caso de necessidade a tela também apresenta a opção de registrar uma nova senha. 
 
+![2](https://user-images.githubusercontent.com/126619667/233822161-f227617e-bc71-4c49-86c8-6de623b89c50.png)
 
 
 3 - Tela - Feed
@@ -54,24 +53,21 @@ Apresenta ao usuário posts dos perfis que ele segue e a novidades baseadas em s
 
 Apresenta ao usuário os conteúdos mais comentados e novidades.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/95055f9f-b7c5-4d2b-b3bb-15d16c8f75b0)
-
+![3](https://user-images.githubusercontent.com/126619667/233822188-6da45a1f-baee-4974-a092-e6240db6fbd2.png)
 
 
 4 - Tela - Explorar e pesquisar
 
 Nesta tela o usuário poderá explorar os conteúdos através de diversos filtros como o gênero da mídia por exemplo (ação, comédia), e fazer pesquisas.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/6b476525-4c51-4490-ad4d-0bb0b6e7dce4)
-
+![4](https://user-images.githubusercontent.com/126619667/233822206-4b4c4a8c-7539-4a3f-a15f-bcf9bbd6165e.png)
 
 
 5 - Tela - Informações da Mídia
 
 Após achar a mídia e clicar na mesma, o usuário será direcionado as suas informações, como por exemplo a classificação dos usuários do site, duração, onde assistir e sinopse do filme.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/8616fb21-f290-46d0-9694-c608fee94c4e)
-
+![5](https://user-images.githubusercontent.com/126619667/233822358-e7fd5d0d-181e-4857-a6cb-f6416e6de789.png)
 
 
 6 - Tela – Perfil do Usuário
@@ -82,23 +78,21 @@ A tela de perfil possibilita ao usuário ver suas postagens, amigos, e escrever 
 Botão favoritos: Leva o usuário a sua lista de favoritos/Interesse.
 Botão Sair: Faz o logoff do site.
 
-]![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/8163c9ce-d555-48ea-9d55-1f4059976754)
-
+![6](https://user-images.githubusercontent.com/126619667/233822364-b61bd963-b344-4917-ad3d-11e5ddb9ae72.png)
 
 
 7 - Tela - Favoritos
 
 A tela apresenta ao usuário todas as mídias que ele já classificou e na Barra lateral esquerda mostra todas as que ele marcou em sua lista de interesse.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/72e142b0-619a-48da-8e5d-d737a3665ac0)
+![7](https://user-images.githubusercontent.com/126619667/233822404-de9cf135-adac-4b88-8806-44921ffba52b.png)
 
 
 8 - Tela - Postagem
 
 Na tela de postagem o usuário poderá criar seu post com uma imagem e texto e classificar o conteúdo de 1 até 5 estrelas.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-01/assets/111918966/d7894432-95d4-4f23-9396-5c53617aeaa9)
-
+![9](https://user-images.githubusercontent.com/126619667/233822423-fcaef6af-a5cb-4554-b31c-407985af7eb6.png)
 
 
 
