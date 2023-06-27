@@ -1,6 +1,6 @@
 # Template padrão do site
 
-LINK PARA O SITE: https://moviebox.com.br/
+LINK PARA O SITE: https://moviebox.com.br/pages/login-page.html
 
 
 TELA DE LOGIN
